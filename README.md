@@ -17,8 +17,6 @@ Things I got stuck on, so I don't get stuck again
 ## Things I learned in termanal
 
 - pwd
-- ls
-- cd
 - mkdir
 - New-Item
 - git log -oneline
