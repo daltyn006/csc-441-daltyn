@@ -21,3 +21,19 @@ Things I got stuck on, so I don't get stuck again
 - New-Item
 - git log -oneline
 - clip
+
+## My goals for this course
+
+- learn git production
+- learn git formality
+- learn self-productivity
+
+## Tools I have installed
+
+[X] Git
+[] IntellJ IDEA Community Edititon
+[X] Android Studio
+[] VS Code
+[X] Zed
+[X] Java 26
+[X] Node JS
