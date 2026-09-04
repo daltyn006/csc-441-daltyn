@@ -1,0 +1,23 @@
+# Operating system junk
+.DS_Store
+Thumbs.db
+desktop.ini
+# Editor and IDE settings
+agents.md
+agents.txt
+.idea/
+.vscode/
+*.iml
+# Build output
+build/
+out/
+bin/
+*.class
+*.apk
+# Dependencies
+node_modules/
+# Secrets — never commit these
+.env
+*.env
+local.properties
+secrets.txt
