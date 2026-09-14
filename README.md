@@ -12,7 +12,7 @@
 - **Git installed:** True
 
 ## Notes to future me
-Things I got stuck on, so I don't get stuck again
+don't get stuck again
 
 ## Things I learned in termanal
 
@@ -31,9 +31,9 @@ Things I got stuck on, so I don't get stuck again
 ## Tools I have installed
 
 [X] Git
-[] IntellJ IDEA Community Edititon
+[X] IntellJ IDEA Community Edititon
 [X] Android Studio
-[] VS Code
+[X] VS Code
 [X] Zed
 [X] Java 26
 [X] Node JS
