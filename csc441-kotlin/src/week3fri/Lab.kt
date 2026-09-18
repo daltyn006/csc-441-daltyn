@@ -2,7 +2,7 @@ package week3fri
 
 import kotlin.random.Random
 
-fun main(){
+fun main() {
     println("---Print Numbers---")
     for (idx in 1..10)
         print("$idx ")

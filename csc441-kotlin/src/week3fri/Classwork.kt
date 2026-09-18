@@ -1,6 +1,7 @@
 #!/usr/bin/env kotlin
 
 package week3fri
+
 fun main() {
     for (i in 1..5) {
         print("$i ")
